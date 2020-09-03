@@ -1,0 +1,17 @@
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\bin\Debug\netcoreapp3.1\CS_ASP_008 Challange.exe
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\bin\Debug\netcoreapp3.1\CS_ASP_008 Challange.deps.json
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\bin\Debug\netcoreapp3.1\CS_ASP_008 Challange.runtimeconfig.json
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\bin\Debug\netcoreapp3.1\CS_ASP_008 Challange.runtimeconfig.dev.json
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\bin\Debug\netcoreapp3.1\CS_ASP_008 Challange.dll
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\bin\Debug\netcoreapp3.1\CS_ASP_008 Challange.pdb
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\obj\Debug\netcoreapp3.1\CS_ASP_008 Challange.csprojAssemblyReference.cache
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\obj\Debug\netcoreapp3.1\CS_ASP_008 Challange_MarkupCompile.cache
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\obj\Debug\netcoreapp3.1\CS_ASP_008 Challange_MarkupCompile.lref
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\obj\Debug\netcoreapp3.1\CS_ASP_008 Challange.g.resources
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\obj\Debug\netcoreapp3.1\CS_ASP_008 Challange.AssemblyInfoInputs.cache
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\obj\Debug\netcoreapp3.1\CS_ASP_008 Challange.AssemblyInfo.cs
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\obj\Debug\netcoreapp3.1\CS_ASP_008 Challange.dll
+C:\Users\maconrm180\Desktop\Brandon Dennis\CS_ASP_008 Challange\obj\Debug\netcoreapp3.1\CS_ASP_008 Challange.pdb
